@@ -2,7 +2,6 @@ const int MAXL = (int)1e9;
 
 template<typename T>
 struct DynamicSegment{
-    template<typename S=T>
     struct Node{
         int l, r; // range
         S data;
@@ -22,10 +21,10 @@ struct DynamicSegment{
             return;
         }
     };
-    Node<T> *tree;
+    Node *tree;
 
     DynamicSegment() { tree = new Node(); }
-    void update(Node<T> *cur, int l, int r, T data){
+    void update(Node *cur, int l, int r, T data){
         if(cur->l > r || cur->r < l || cur->l > cur->r)return;
         if(l <= cur->l && cur->r <= r){
             cur->data += (cur->r - cur->l + 1) * data;
@@ -39,7 +38,7 @@ struct DynamicSegment{
     }
     void update(int l, int r, T data){ update(tree, l, r, data); }
 
-    T query(Node<T> *cur, int l, int r){
+    T query(Node *cur, int l, int r){
         if(cur->l > cur->r || cur->r < l || cur->l > r)return T(0);
         if(l <= cur->l && cur->r <= r)return cur->data;
         cur->extend();
