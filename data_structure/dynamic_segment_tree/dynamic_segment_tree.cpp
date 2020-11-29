@@ -4,7 +4,7 @@ template<typename T>
 struct DynamicSegment{
     struct Node{
         int l, r; // range
-        S data;
+        T data;
         Node *left, *right;
         Node():l(1),r(MAXL),data(0),left(0),right(0) { }
         void extend(){
