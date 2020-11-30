@@ -9,4 +9,7 @@
  - [Dynamic Segment Tree](./data_structure/dynamic_segment_tree)
  - [Dynamic Segment Tree with Lazy Propagation](./data_structure/dynamic_segment_tree_with_lazy_propagation)
 
+ - [Splay Tree](.) - TODO
+ - [Link Cut Tree](.) - TODO
+
 ## Math
