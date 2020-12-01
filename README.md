@@ -2,7 +2,7 @@
 
 ## Data Structure 
 
- - [Union Find](.) - TODO
+ - [Union Find](./data_structure/union_find/)
  - [Fenwick Tree](./data_structure/fenwick_tree/)
  - [Segment Tree](./data_structure/segment_tree/)
  - [Segment Tree with Lazy Propagation](./data_structure/segment_tree_with_lazy_propagation)
