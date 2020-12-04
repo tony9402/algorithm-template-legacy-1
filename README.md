@@ -11,7 +11,7 @@
  - [Dynamic Segment Tree](./data_structure/dynamic_segment_tree)
  - [Dynamic Segment Tree with Lazy Propagation](./data_structure/dynamic_segment_tree_with_lazy_propagation)
 
- - [Persisent Segment Tree](.) - TODO
+ - [Persistent Segment Tree](./data_structure/persistent_segment_tree)
  - [Splay Tree](.) - TODO
  - [Link Cut Tree](.) - TODO
 

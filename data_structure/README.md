@@ -8,5 +8,6 @@
 ### [Segment Tree Beats](./segment_tree_beats)
 ### [Dynamic Segment Tree](./dynamic_segment_tree)
 ### [Dynamic Segment Tree with Lazy Propagation](./dynamic_segment_tree_with_lazy_propagation)
+### [Persistent Segment Tree](./persistent_segment_Tree)
 ### [Splay Tree](./splay_tree)
 ### [Link Cut Tree](./link_cut_tree)
