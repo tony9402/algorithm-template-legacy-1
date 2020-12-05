@@ -1,5 +1,7 @@
 # Persistent Segment Tree
 
+![Lastest Version](https://img.shields.io/badge/Lastest_Version-v3.0.0-brightgreen)
+
  - [Basic Template](./persistent_segment_tree.cpp)
  - [Persistent Segment Tree Version 3](./pst_v3.cpp)
 
