@@ -21,5 +21,5 @@
 #### 수열과 쿼리 3 <span style="color:green">SOLVED</span>
  - [Problem](https://www.acmicpc.net/problem/13544)
 
-#### XOR 쿼리 <span style="color:green">SOLVED</span>
+#### XOR 쿼리 <font style="color:green">SOLVED</font>
  - [Problem](https://www.acmicpc.net/problem/13538)
