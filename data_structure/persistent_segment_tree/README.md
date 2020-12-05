@@ -1,6 +1,7 @@
 # Persistent Segment Tree
 
  - [Basic Template](./persistent_segment_tree.cpp)
+ - [Persistent Segment Tree Version 3](./pst_v3.cpp)
 
 ### ***연습문제***
 
