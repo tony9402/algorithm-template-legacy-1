@@ -8,3 +8,18 @@
 #### K번째 수
  - [Problem](https://www.acmicpc.net/problem/7469)
  - [Solution](./7469.cpp)
+
+#### 트리와 K번쨰 수
+ - [Problem](https://www.acmicpc.net/problem/11932)
+
+#### 트리와 쿼리 8
+ - [Problem](https://www.acmicpc.net/problem/13517)
+
+#### Egg
+ - [Problem](https://www.acmicpc.net/problem/11012)
+
+#### 수열과 쿼리 3 
+ - [Problem](https://www.acmicpc.net/problem/13544)
+
+#### XOR 쿼리 
+ - [Problem](https://www.acmicpc.net/problem/13538)
