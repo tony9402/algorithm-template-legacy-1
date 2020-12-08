@@ -26,5 +26,6 @@
 ## Tree
 
 ## String
+ - [Trie](./string/trie)
 
 ## Dynamic Programming
