@@ -18,10 +18,10 @@
 #### Boggle :white_check_mark:
  - [Problem](https://www.acmicpc.net/problem/9202)
 
-#### XOR 합
+#### XOR 합 :white_check_mark:
  - [Problem](https://www.acmicpc.net/problem/13504)
 
-#### 별다줄
+#### 별다줄 :white_check_mark:
  - [Problem](https://www.acmicpc.net/problem/17365)
 
 #### 휴대폰 자판 :white_check_mark:
@@ -30,14 +30,14 @@
 #### 돌연변이
  - [Problem](https://www.acmicpc.net/problem/10256)
 
-#### 문자열 집합 판별
- - [Problem](https://www.acmicpc.net/problem/9250)
-
-#### 용량 부족
+#### 용량 부족 :white_check_mark:
  - [Problem](https://www.acmicpc.net/problem/5446)
 
 #### 아름다운 이름
  - [Problem](https://www.acmicpc.net/problem/3080)
 
-#### 수열과 쿼리 20
+#### 수열과 쿼리 20 :white_check_mark:
  - [Problem](https://www.acmicpc.net/problem/16903)
+
+#### XOR MST :white_check_mark:
+ - [Problem](https://www.acmicpc.net/problem/16901)
