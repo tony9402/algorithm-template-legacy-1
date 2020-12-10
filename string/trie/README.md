@@ -11,9 +11,6 @@
 #### 개미굴 :white_check_mark:
  - [Problem](https://www.acmicpc.net/problem/14725)
 
-#### 단어퍼즐 2
- - [Problem](https://www.acmicpc.net/problem/13502)
-
 #### 전화번호 목록 :white_check_mark:
  - [Problem](https://www.acmicpc.net/problem/5052)
 
@@ -29,13 +26,10 @@
 #### 휴대폰 자판 :white_check_mark:
  - [Problem](https://www.acmicpc.net/problem/5670)
 
-#### 돌연변이
- - [Problem](https://www.acmicpc.net/problem/10256)
-
 #### 용량 부족 :white_check_mark:
  - [Problem](https://www.acmicpc.net/problem/5446)
 
-#### 아름다운 이름
+#### 아름다운 이름 :white_check_mark:
  - [Problem](https://www.acmicpc.net/problem/3080)
 
 #### 두 수 XOR :white_check_mark:
