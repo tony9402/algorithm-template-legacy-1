@@ -1,4 +1,4 @@
 # String
 
 ### [Trie](./trie)
-### [Aho-Corasic](./aho_corasic)
+### [Aho-Corasic](./aho_corasick)
