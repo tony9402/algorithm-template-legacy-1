@@ -27,5 +27,6 @@
 
 ## String
  - [Trie](./string/trie)
+ - [Aho-Corasick](./string/aho_corasick) - TODO
 
 ## Dynamic Programming
