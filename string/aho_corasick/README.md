@@ -1,5 +1,8 @@
 # Aho-Corasick
 
+### ***공부자료***
+ - [koosaga](https://koosaga.com/157)
+ - [kks227](https://blog.naver.com/kks227/220992598966)
 
 ### ***연습문제***
 
