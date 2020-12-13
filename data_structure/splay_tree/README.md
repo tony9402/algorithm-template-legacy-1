@@ -3,6 +3,7 @@
  - [(Codeforces) Splay Tree implementation](https://codeforces.com/blog/entry/18462)
  - [melon940925](https://blog.naver.com/melon940925/222126629890)
  - [melon940925](https://blog.naver.com/melon940925/222139573058)
+ - [paper - Self-Adjusting Binary Search Trees](https://www.cs.cmu.edu/~sleator/papers/self-adjusting.pdf)
 
 ### ***연습문제***
 
