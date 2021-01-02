@@ -3,7 +3,7 @@
 ![Lastest Version](https://img.shields.io/badge/Lastest_Version-v3.0.0-brightgreen)
 
  - [Basic Template](./trie.cpp)
- - [Trie (bit version)](./trie_bit.cpp)
+ - [Trie (binary version)](./binary_trie.cpp)
  - [Trie (string version)](./trie_string.cpp)
 
 ### ***연습문제***
